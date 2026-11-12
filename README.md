@@ -8,9 +8,9 @@ Techniques and where to find them:
 
 <ins>Business Area</ins>	&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;  <ins>Folder location</ins>                                                                                                
 
-1) General Techniques	   &emsp;&emsp;&nbsp;&nbsp;  /general                                                          
+1) General Advanced Techniques	   &emsp;&emsp;&nbsp;&nbsp;  /general                                                          
 <br>
-Healthcare Techniques: Patient deduplication (master patient index), readmission rates (30-day), length of stay, encounter sequencing, care gap analysis, chronic condition flagging, risk stratification, claims aggregation, denial rate analysis, provider utilization, payer mix, ICD/CPT code grouping, medication adherence (proportion of days covered), episode of care grouping, patient cohort building, no-show rates, bed occupancy, ED wait times, HEDIS quality measures, member eligibility spans (gaps and islands), slowly changing dimensions (Type 2), data quality validation	
+General Advanced Techniques: Window functions (ROW_NUMBER, RANK, DENSE_RANK, LAG/LEAD), running totals, moving averages, top-N per group, QUALIFY, CTEs, recursive CTEs, correlated subqueries, CROSS APPLY / OUTER APPLY, self-joins, anti-joins and semi-joins (EXISTS / NOT EXISTS), range joins, INTERSECT / EXCEPT, conditional aggregation, PIVOT/UNPIVOT, GROUPING SETS/ROLLUP, gaps and islands, date spine generation, cohort analysis, sessionization, slowly changing dimensions (Type 2), MERGE/upserts, incremental loads, deduplication, data validation checks, source-to-target reconciliation, JSON parsing and flattening, query optimization, stored procedures, dynamic SQL, funnel analysis, percentile calculations
 
 <br><br>
 
