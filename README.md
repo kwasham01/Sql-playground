@@ -8,7 +8,7 @@ Techniques and where to find them:
 
 <ins>Business Area</ins>	&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;  <ins>Folder location</ins>                                                                                                
 
-1) General Advanced Techniques	   &emsp;&emsp;&nbsp;&nbsp;  /general                                                          
+1) Advanced Techniques	   &emsp;&emsp;&nbsp;  /general                                                          
 <br>
 General Advanced Techniques: Window functions (ROW_NUMBER, RANK, DENSE_RANK, LAG/LEAD), running totals, moving averages, top-N per group, QUALIFY, CTEs, recursive CTEs, correlated subqueries, CROSS APPLY / OUTER APPLY, self-joins, anti-joins and semi-joins (EXISTS / NOT EXISTS), range joins, INTERSECT / EXCEPT, conditional aggregation, PIVOT/UNPIVOT, GROUPING SETS/ROLLUP, gaps and islands, date spine generation, cohort analysis, sessionization, slowly changing dimensions (Type 2), MERGE/upserts, incremental loads, deduplication, data validation checks, source-to-target reconciliation, JSON parsing and flattening, query optimization, stored procedures, dynamic SQL, funnel analysis, percentile calculations
 
